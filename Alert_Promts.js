@@ -5,3 +5,8 @@
 */
 
 alert("Hello world!");
+
+/* prompt()  -- it is a dialog box that ask user for some value
+    syntax-- prompt() // empty dialog box
+    
+*/
